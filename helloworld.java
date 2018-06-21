@@ -1,6 +1,6 @@
 /**
  * The HelloWorldApp class implements an application that
- * simply prints "Hello World!" to standard output.
+ * simply prints "Hello World!" to standard outputs.
  */
 class HelloWorldApp {
     public static void main(String[] args) {
